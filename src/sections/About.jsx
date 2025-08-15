@@ -40,7 +40,8 @@ const About = () => {
               </p>
               <div className="pt-20">
                 <a
-                  href="/assets/JAINILKD_CV5.pdf"
+                  // href="/assets/JAINILKD_CV5.pdf"
+                  href="/assets/JAINIL_KUKROLIA_RESUME2.pdf"
                   target="_blank"
                   className="w-full"
                 >
